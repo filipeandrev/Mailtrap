@@ -1,0 +1,2 @@
+# Mailtrap
+Prática no MailTrap
